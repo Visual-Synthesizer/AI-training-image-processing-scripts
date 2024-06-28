@@ -2,7 +2,9 @@
 
 Welcome to the Image Processing Scripts repository! This collection includes various scripts designed to handle a range of image processing tasks for AI diffusion fine tuning and LoRA creation, such as renaming, resizing, rotating, removing metadata, processing text descriptions, handling errors, bucketing images, error searching and scraping images online. 
 
-I use Kohya sd scripts https://github.com/kohya-ss/sd-scripts and Hugging Face Diffusers advanced scripts to train: https://github.com/huggingface/diffusers/blob/main/examples/advanced_diffusion_training/train_dreambooth_lora_sdxl_advanced.py
+I use Kohya sd scripts and Hugging Face Diffusers advanced scripts to finetune and train LoRA's:
+https://github.com/kohya-ss/sd-scripts 
+https://github.com/huggingface/diffusers/blob/main/examples/advanced_diffusion_training/train_dreambooth_lora_sdxl_advanced.py
 
 ## Categories
 
@@ -50,7 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please open an issue in the repository or contact us at your-email@example.com.
+For any questions or feedback, please open an issue in the repository or contact us at vsynthesizer@gmail.com.
 
 ---
 
